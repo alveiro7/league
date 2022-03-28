@@ -7,6 +7,7 @@
 4. Doomsday.
 5. Thanos
 6. Freezeer
+7. Harley Queen
 
 # notes
 These villains are very dangerous
