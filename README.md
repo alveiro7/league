@@ -17,3 +17,6 @@ npm start
 
 ## from VSCode
 This was added through VSCode
+
+### from GitHub
+This was added through GitHub
